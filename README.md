@@ -20,5 +20,4 @@ docker run --net=host   -e key=test_key -it --name=n42ce_master -d  n42inc/n42ce
 3.Ports open on firewall :
 ```
    redis: Port:6379  IP: 52.73.171.150   
-   tsdb : Port:4343  IP: 52.8.104.253
 ```
