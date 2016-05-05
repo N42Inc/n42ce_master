@@ -9,7 +9,7 @@ Docker deployment monitoring for applications, collects data to provide applicat
 
 This image only contains swarm events listener.
 ## How to use this image
-1.Register on n42 website [networks42.com](http://networks42.com/Demo.html)
+1.Drop a mail to <b>info@networks42.com</b> for the key
 2.Launch docker image with provided key
 
 ### Without a Dockerfile
