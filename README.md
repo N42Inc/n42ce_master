@@ -10,6 +10,7 @@ Docker deployment monitoring for applications, collects data to provide applicat
 This image only contains swarm events listener.
 ## How to use this image
 1.Drop a mail to <b>info@networks42.com</b> for the key
+
 2.Launch docker image with provided key
 
 ### Without a Dockerfile
@@ -21,3 +22,4 @@ docker run --net=host   -e key=test_key -it --name=n42ce_master -d  n42inc/n42ce
 ```
    redis: Port:6379  IP: 52.73.171.150   
 ```
+4.Log into [http://54.67.112.100:8080/](http://54.67.112.100:8080/)  with provided crediantials.
