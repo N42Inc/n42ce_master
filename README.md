@@ -12,7 +12,7 @@ wget -O n42inc_communityedition.sh https://raw.githubusercontent.com/N42Inc/dock
 
 Replace edge_servers with the userkey provided by N42.
 
-Requirments:
+Requirements:
       1.docker compose
       2.python
       
