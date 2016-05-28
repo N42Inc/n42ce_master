@@ -12,7 +12,7 @@ Send a mail to <b>info@networks42.com</b> to obtain the key
 
 wget -O n42inc_communityedition.sh https://raw.githubusercontent.com/N42Inc/docker-compose/master/n42inc_communityedition.sh && sudo bash n42inc_communityedition.sh <key>
 
-Replace edge_servers with the userkey provided by N42.
+Replace key with the userkey provided by N42.
 
 Requirements:
       1.docker compose
