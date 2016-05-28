@@ -20,6 +20,6 @@ Requirements:
       
 Ports used for communication with monitoring server :
 ```
-   redis: Port:6379  IP: 52.73.171.150   
+   Port:6379  IP: 52.73.171.150   
 ```
-4.Log into [http://54.67.112.100:8080/](http://54.67.112.100:8080/)  with provided crediantials.
+Log into [http://54.67.112.100:8080/](http://54.67.112.100:8080/)  with provided crediantials.
