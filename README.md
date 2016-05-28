@@ -7,7 +7,7 @@ Reside on swarm master , listen swarm events and send to redis.[n42ce_slave](htt
 
 Docker deployment monitoring for applications, collects data to provide application topology discovery, multilayer diagnostic views and application sub components performance analytics
 
-## Method 1:
+### Steps :
 Send a mail to <b>info@networks42.com</b> to obtain the key
 
 wget -O n42inc_communityedition.sh https://raw.githubusercontent.com/N42Inc/docker-compose/master/n42inc_communityedition.sh && sudo bash n42inc_communityedition.sh <key>
