@@ -5,7 +5,7 @@ import subprocess
 import json
 swarmmaster_ip = "127.0.0.1:4000"#os.environ['swarmmaster_ip']
 config = {
-    'host': '54.67.112.100',
+    'host': '52.8.104.253',
     'port': 6379,
     'db': 0,
 }
